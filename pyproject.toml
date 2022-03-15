@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "@uzh-bf/junior-challenge"
+version = "0.0.1"
+description = "The DBF Junior Developer Challenge"
+authors = ["Roland Schlaefli <roland.schlaefli@bf.uzh.ch>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.4.1"
+openpyxl = "^3.0.9"
+black = "^22.1.0"
+pylama = "^8.3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
