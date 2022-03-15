@@ -12,7 +12,7 @@ When you apply for a job at our department, you will:
 
 - Part 1: Write some Python code that simulates a simple e-Assessment task :robot:
 - Part 2: Answer 2 practically-oriented questions :pencil2:
-- Part 3: Reflect on your work and the challenge :think:
+- Part 3: Reflect on your work and the challenge :thought_balloon:
 - Finally: Send us the results of your challenge for a quick evaluation and feedback :outbox_tray:
 
 Everybody that completes the challenge with a good standard (it does not have to be perfect) gets invited to a job interview. The challenge allows us to focus more on alignment of interests and your cultural fit rather than asking you a lot of technical questions :bell: However, we will most certainly talk to you about the challenge and your responses.
