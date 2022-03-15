@@ -21,8 +21,7 @@ Everybody that completes the challenge with a good standard (it does not have to
 
 ### Requirements
 
-- Python 3.8
-- Pip
+- Python 3.8+ and Pip
 - Git (optional)
 
 ### Preparations
