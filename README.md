@@ -44,7 +44,7 @@ Select two out of the following three questions and write a short response (a fe
 - [ ] What are the advantages of using a dependency management package like Pipenv or Poetry?
 - [ ] What does the following code snippet do? What might be wrong with it? What could be done better?
 
-```
+```python
 Name_path = os.path.join(some_folder_name, some_file_name)
 if os.path.exists(Name_path) is True:
     console.print(
